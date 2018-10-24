@@ -10,8 +10,8 @@ In this repo you will find:
 -Exploratory Data Analysis:<br/>
   [Exploratory Data Analysis Notebook.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/Exploratory_Data_Analysis_Notebook.ipynb)
 
--A second EDA with some feature engineering:<br\>
-  [More EDA.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/more_eda.ipynb)
+-A second EDA with some feature engineering:<br/>
+  [More EDA.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/More_EDA.ipynb)
 
--Modeling and predictions:<br\>
-  [west_nile_analysis.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/west_nile_analysis.ipynb)
+-Modeling and predictions:<br/>
+  [West_Nile_Analysis.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/West_Nile_Analysis.ipynb)

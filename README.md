@@ -8,10 +8,10 @@ Taking the dataset and challenge from Kaggle (https://www.kaggle.com/c/predict-w
 In this repo you will find:
 
 -Exploratory Data Analysis:<br/>
-  [Exploratory Data Analysis Notebook.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/Exploratory Data Analysis Notebook.ipynb)
+  [Exploratory Data Analysis Notebook.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/Exploratory_Data_Analysis_Notebook.ipynb)
 
 -A second EDA with some feature engineering:<br\>
-  [More EDA.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/more eda.ipynb)
+  [More EDA.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/more_eda.ipynb)
 
 -Modeling and predictions:<br\>
   [west_nile_analysis.ipynb](https://github.com/SamLundberg/WestNileVirus/blob/master/west_nile_analysis.ipynb)

@@ -105,3 +105,5 @@ venv.bak/
 
 /data/testclean.csv
 /data/testw.csv
+
+.ds_store
